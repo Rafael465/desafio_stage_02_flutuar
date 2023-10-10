@@ -5,8 +5,9 @@ body {
   }
 
 main {
-    margin: 64px 200px 64px;
+    margin: 64px auto 64px;
     align-items: center;
+    max-width: 540px;
   }
 
   h1 {
